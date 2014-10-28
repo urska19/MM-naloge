@@ -8,11 +8,14 @@ ___
 
 **Datoteke:**
 
-- *mravljica.m*
-- *enakosti.m*
-- *funmin.m* 
-- *lin.m* 
-- *sistem_uv.m*
+- *mravljica.m* .. simulacija potovanja v kvadratu
+- *enakosti.m* ... linearni pogoji za problem diskretne veriznice
+- *funmin.m* ... nastavitev funkcije, ki jo je treba minimizirati
+- *lin.m* ... linearni pogoji za problem diskretne veriznice
+- *sistem_uv.m* ... vrednost sistema dveh enacb za veriznico
+- *veriznica1.m* ... rešitev iz sistema za u in v
+- *veriznica2.m* ... rešitev z Newtonovo metodo
+- *veriznica3.m* ... rešitev s funkcijo sqp() za iskanje vezanih ekstremov
 
 ___
 
